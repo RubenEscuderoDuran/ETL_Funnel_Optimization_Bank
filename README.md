@@ -8,7 +8,7 @@ The solution focused on analyzing user behavior within a mobile app that enables
 
 This diagram presents a detailed representation of the complete ETL process implemented to accomplish the proposed objectives for this project.
 
-![](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/ETL.png)
+![alt text](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/ETL.png)
 
 # Dashboard
 
@@ -18,17 +18,17 @@ This funnel chart represents the customer conversion rate by stage, showing that
 
 This bar chart represents the percentage by conversion to TCD per state, showing only in Aguascalientes the users complete all the process to open a bank account.
 
-![](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Percentage_by_TCD.png)
+![alt text](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Percentage_by_TCD.png)
 
 This bar chart represents the age group by stage, from this, we can see only users aged 50+ are carrying out the process, following by age group 36-50.
 
-![](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Percentage_by_agegroup.png)
+![alt text](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Percentage_by_agegroup.png)
 
 # Automate Workflow 
 
 This job allows us to automatically orchestrate the execution of tasks (ETL processes) defined in the notebooks. It is scheduled to run periodically.
 
-![](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Workflow.png)
+![alt text](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Workflow.png)
 
 
 
