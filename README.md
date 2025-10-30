@@ -8,21 +8,21 @@ The solution focused on analyzing user behavior within a mobile app that enables
 
 This diagram presents a detailed representation of the complete ETL process implemented to accomplish the proposed objectives for this project.
 
-![alt text](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/ETL.png)
+![alt text](https://adb-3718039377424760.0.azuredatabricks.net/editor/files/2500125549128982?o=3718039377424760)
 
 # Dashboard
 
 This funnel chart represents the customer conversion rate by stage, showing that only 76.40% of users completed the registration process to open a bank account trough the mobile app.
 
-![](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Funnel_model.png)
+![alt text](https://adb-3718039377424760.0.azuredatabricks.net/editor/files/3084550433890917?o=3718039377424760)
 
 This bar chart represents the percentage by conversion to TCD per state, showing only in Aguascalientes the users complete all the process to open a bank account.
 
-![alt text](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Percentage_by_TCD.png)
+![alt text](https://adb-3718039377424760.0.azuredatabricks.net/editor/files/3084550433890918?o=3718039377424760)
 
 This bar chart represents the age group by stage, from this, we can see only users aged 50+ are carrying out the process, following by age group 36-50.
 
-![alt text](/Workspace/Users/escuderoduranrubendejesus@gmail.com/ETL_Funnel_Optimization_Bank/Percentage_by_agegroup.png)
+![alt text](https://adb-3718039377424760.0.azuredatabricks.net/editor/files/3084550433890916?o=3718039377424760)
 
 # Automate Workflow 
 
